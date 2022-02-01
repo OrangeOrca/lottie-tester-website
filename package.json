@@ -1,0 +1,25 @@
+{
+  "name": "lottie-tester-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeOrca/lottie-tester-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrangeOrca/lottie-tester-website/issues"
+  },
+  "homepage": "https://github.com/OrangeOrca/lottie-tester-website#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.18"
+  },
+  "dependencies": {
+    "lottie-web": "^5.8.1"
+  }
+}
